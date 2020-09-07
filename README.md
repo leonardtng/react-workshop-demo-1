@@ -7,11 +7,9 @@
 
 ## ❓ Notes
 
-The objective of the first session of Introduction to React is to create a website that utilises the useState hook. Do use the code here as reference if you encounter any obstacles!
+The objective of the first session of Introduction to React is to create a website that utilises the useState hook. Do use the code here as reference if you encounter any obstacles! You can view the code for the beefed up counter website [here](https://github.com/leonardtng/fancy-counter)
 
 ## 👍 How to Use This Repository
-
-## Available Scripts
 
 In the project directory, you can run:
 
