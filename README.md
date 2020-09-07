@@ -1,4 +1,15 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+  YNC Hacks: Introduction to React
+</h1>
+<p align="center">
+  Counter Website Demo Code
+</p>
+
+## ❓ Notes
+
+The objective of the first session of Introduction to React is to create a website that utilises the useState hook. Do use the code here as reference if you encounter any obstacles!
+
+## 👍 How to Use This Repository
 
 ## Available Scripts
 
