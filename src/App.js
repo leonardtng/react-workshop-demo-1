@@ -2,12 +2,10 @@ import React from 'react';
 import './App.css';
 import Counter from './Counter';
 
-function App() {
+const App = () => {
   return (
     <div className="App" >
-      <header>
-        <h1>My React Counter</h1>
-      </header>
+      <h1>My React Counter</h1>
       <Counter />
     </div>
   );
